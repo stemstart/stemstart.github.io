@@ -88,7 +88,7 @@ ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, body, html, p, blockquote, fields
  .nav ul li { list-style: none; display: inline-block; }
  .nav li a, #wsite-menus .wsite-menu li a { display: block; font-size: .9em; text-decoration: none; text-transform: uppercase; color: inherit; padding: 10px 15px; letter-spacing: 1px; }
  .nav li a:hover, .nav li a:focus, .wsite-menu li a:hover, .wsite-menu li a:focus, #active a { color: #a6a6a6 !important; }
- .wsite-menu-item:hover li a {display: block;}
+ .wsite-menu-item:hover .wsite-menu-subitem {display: block;}
  #wsite-menus .wsite-menu-wrap { font-size: inherit !important; }
  #wsite-menus > .wsite-menu-wrap { margin-left: -65px; margin-top: 25px; }
  .collapse #wsite-menus > .wsite-menu-wrap { margin-top: 16px; }
